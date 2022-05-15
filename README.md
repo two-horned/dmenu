@@ -41,3 +41,6 @@ See the man page for details.
 - [password](https://tools.suckless.org/dmenu/patches/password/)
   - Philip K. - philipk (at) posteo (dot) net
   - Mehrad Mahmoudian - m.mahmoudian Gmail (dmenu-password-5.0.diff)
+- [numbers](https://tools.suckless.org/dmenu/patches/numbers/)
+  - Miles Alan m@milesalan.com
+  - Ehsan Ghorbannezhad ehsan@disroot.org (bugfixes)
